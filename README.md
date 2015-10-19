@@ -6,14 +6,14 @@ This repository contains some of my course projects for machine learning, data m
 ### Image reconstruction with alignment using PCA and gender prediction using FLD
 * Machine Learning
 * Fall 2014
-* [Link](https://www.github.com)
+* [Link](./PCA_FLD)
 * We implemented our own PCA and FLD.
 
 ### Face detection in images using AdaBoost and RealBoost
 * Machine Learning
 * Fall 2014
 * [Link](https://www.github.com)
-* We implemented our own PCA and FLD.
+* We implemented our own AdaBoost and RealBoost.
 
 ### Movie recommendation using Alternative Least Square
 * Machine Learning
